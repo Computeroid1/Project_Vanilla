@@ -37,7 +37,7 @@ This is a to-do list web app built with **HTML**, **CSS**, and **JavaScript**. I
    git clone https://github.com/Computeroid1/Project_Vanilla.git
 
 2. **Navigate to the project folder**
-    cd todo-list-app
+    cd To-do-App
 
 3. **Open index.html in your browser**
     open index.html
@@ -54,4 +54,4 @@ This is a to-do list web app built with **HTML**, **CSS**, and **JavaScript**. I
 ## 🎨 Color Scheme (60-30-10 Rule)
 - Primary (60%): Midnight Blue (#191970)
 - Secondary (30%): White (#ffffff)
-- Accent (10%): Orange (#FFA500) or LimeGreen (#32CD32) depending on theme
+- Accent (10%): Orange (#FFA500)
